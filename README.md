@@ -1,6 +1,6 @@
 - 👋 Hola, Yo soy @remiidz
-- 👀 Estoy interesado en hacer dinero.
-- 🌱 Actualmente estoy estudiando diseño web por mi cuenta.
+- 👀 Estoy interesado en conocer, aprender, desarrollar y pulir mis habilidades en áreas de la programación-
+- 🌱 Actualmente estoy estudiando diseño web por mi cuenta, teniendo como objetivo ser esquematizar, diseñar y otorgarle dinamismo a la web.
 - 💞️ Me gustaría colaborar con personas y formar un equipo para crecer juntos.
 - 📫 Me pueden contactar por email remiprogramator@gmail.com
 
